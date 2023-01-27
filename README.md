@@ -9,6 +9,8 @@ AB Real Estate company is looking into helping home buyers and sellers by predic
 **Business Problem**
 AB real estate is looking to use a strategy for their agents to maximise the total value of a home for all the parties involved.
 For this, we need to identify selected features within King County home to indicate the most important aspects of these properties. This will also help the company gain trust between buyers and sellers, also establish their name within the industry. 
+
+
 **Data**
 We are using the King County House Sales dataset with a purpose of predicting the house prices within King County.  The data include around 21.5k data values of house sales for the properties sold during 2014 and 2015. 
 
